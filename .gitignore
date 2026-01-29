@@ -1,0 +1,6 @@
+hacker_store/
+.venv/
+__pycache__/
+*.pyc
+data.db
+.vscode/
