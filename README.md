@@ -57,7 +57,6 @@ curl http://localhost:5000/produtos
 - Flask 3.1.2
 - SQLAlchemy 2.0.46
 - SQLite (banco de dados)
-- Colorama 0.4.6
 
 ## Estrutura do Projeto
 
